@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+.title {
+    color: darkgoldenrod;
+    font-size: 50px;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    margin-top: 20px;
+}
+ol {
+    list-style-type: none;
+}
+img {
+    border-radius: 50%;
+    margin: 20px 0;
+}
