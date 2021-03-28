@@ -6,7 +6,7 @@ html {
 
 .main-image {
     background-image: url("images/shop/main.jpg");
-    height: 80%;
+    height: 100%;
     background-position: center;
     background-size: cover;
     position: relative;
@@ -16,7 +16,7 @@ html {
 
 .topleft {
     position: absolute;
-    top: 35px;
+    top: 5px;
     left: 30px;
 }
 .logo {
@@ -36,7 +36,8 @@ html {
 }
 
 .profile {
-    margin: 20px 100px;
+    margin: 100px 100px;
+    margin-top: 150px;
     font-family: "Courier New", Courier, monospace;
 }
 
@@ -59,7 +60,8 @@ html {
 }
 
 .menu {
-    margin: 20px 100px;
+    margin: 100px 100px;
+    margin-top: 150px;
     font-family: "Courier New", Courier, monospace;
 }
 .menu-section {
@@ -82,7 +84,8 @@ html {
     width: 200px;
 }
 .reviews {
-    margin: 80px;
+    margin: 100px 80px;
+    margin-top: 150px;
     font-family: "Courier New", Courier, monospace;
 }
 
